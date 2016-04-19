@@ -54,7 +54,7 @@ import java.util.Random;
  */
 public class ZipfianGenerator extends IntegerGenerator
 {     
-	public static final double ZIPFIAN_CONSTANT=0.99;
+	public static final double ZIPFIAN_CONSTANT=0.;
 
 	/**
 	 * Number of items.
